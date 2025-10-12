@@ -2,6 +2,12 @@
 
 ## Description
 
+> “What I cannot create, I do not understand.”  
+> — Richard Feynman
+
+**For the curious mind wondering how Transformers and LLMs work under the hood**
+
+
 This repository is aimed to build a Transformer language model from scratch by training a classical OG encoder-decoder architechture, going through contextual and postional embeddings, attention layers and using Reddit Data to perform Pretraining (And praying everything is alright) on commodity hardware.
 
 Tech stack used:
