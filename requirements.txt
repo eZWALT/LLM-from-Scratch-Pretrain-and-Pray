@@ -4,3 +4,8 @@ matplotlib
 tiktoken
 tqdm
 numpy
+ipykernel
+transformers
+tokenizers
+datasets
+huggingface_hub
