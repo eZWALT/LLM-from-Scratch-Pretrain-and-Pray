@@ -19,6 +19,14 @@ Tech stack used:
 
 ## Install / Usage 
 
+Firstly install the dependencies using pip, pyenv, uv, conda... Although PyENV is seriously recommended to isolate completely the python version and deps while being open-source:
+
+```sh
+pyenv virtualenv 3.12.11 llm
+pyenv local llm 
+pyenv activate llm
+```
+
 
 ## Credits 
 
